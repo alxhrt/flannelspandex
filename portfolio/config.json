@@ -6,7 +6,7 @@
   "favicon": "/upload/logo-invertiert-schwarz.svg",
   "navigation": [
     {
-      "text": "Works",
+      "text": "Tracks",
       "link": "/",
       "position": "left",
       "external": false
@@ -24,7 +24,7 @@
       "external": true
     },
     {
-      "text": "Journal",
+      "text": "Adventures",
       "link": "/journal/",
       "position": "right",
       "external": false
