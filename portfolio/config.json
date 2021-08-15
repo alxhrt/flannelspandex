@@ -12,9 +12,15 @@
       "external": false
     },
     {
+      "text": "Adventures",
+      "link": "/journal/",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "Instagram",
       "link": "https://www.instagram.com/flannelspandex",
-      "position": "left",
+      "position": "right",
       "external": true
     },
     {
@@ -22,12 +28,6 @@
       "link": "mailto:sayhi@mydomain.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Adventures",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
