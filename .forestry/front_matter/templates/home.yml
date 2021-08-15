@@ -13,5 +13,21 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: categories
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categories
+- name: categories2
+  type: tag_list
+  default: []
+  label: Categories2
 pages:
 - portfolio/index.md
