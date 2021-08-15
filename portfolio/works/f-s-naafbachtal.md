@@ -9,7 +9,7 @@ year: 2021
 date: 
 
 ---
-# No Headline no party
+# No Headline, no party
 
 ![](/upload/2021-08-15-image_f-s.jpeg)
 
@@ -19,7 +19,7 @@ date:
 **FITNESS LEVEL**: medium  
 **PREFERED TIRE SIZE:** 35mm+
 
-## No Subline no headache
+## No Subline, no headache
 
 asdfasdfasdf asdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdgasdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdgasdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdgasdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdg
 
