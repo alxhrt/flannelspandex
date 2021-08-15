@@ -1,6 +1,6 @@
 ---
 title: 'Hard: Heavy Metal Lüderich'
-excerpt: 1.000HM, 90km, technical descents
+excerpt: 1.000HM, 90km, technical descents ☠️
 date: 
 
 ---
