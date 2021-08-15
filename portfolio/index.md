@@ -4,6 +4,9 @@ hero_text: 'We''re<strong> Flannel&amp;Spandex</strong>, we ride bikes and build
   <em>#awayfromtraffic.</em><br>Here are our favorite <em>tracks </em>around<em> Cologne</em>.
   Enjoy! '
 title: Hero
+categories: ''
+categories2:
+- easy
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
