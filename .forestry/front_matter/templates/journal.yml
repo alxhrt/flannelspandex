@@ -20,5 +20,6 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/hard-heavy-metal-luderich.md
 - portfolio/journal/hard-whoop-whoop-wupper.md
 - portfolio/journal/medium-naafbachtal.md
