@@ -1,5 +1,5 @@
 ---
-title: F&S Naafbachtal
+title: "\U0001F195 F&S Naafbachtal"
 thumbnail: "/upload/2021-08-15-image_f-s.jpeg"
 description: 'No trails, no fun! Sagt der Jakob. '
 categories:
