@@ -35,5 +35,4 @@ fields:
   config:
     required: true
 pages:
-- portfolio/works/Königsforst/track-1.md
 - portfolio/works/f-s-naafbachtal.md
