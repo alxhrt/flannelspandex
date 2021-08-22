@@ -20,7 +20,3 @@ asdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdg asdfasdf asfd asdf asdfas
 asdfasdfasdf
 
 bye.
-
-<iframe src="[https://giphy.com/embed/r1CwyHRfGSqgaVWAba](https://giphy.com/embed/r1CwyHRfGSqgaVWAba "https://giphy.com/embed/r1CwyHRfGSqgaVWAba")" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/nbc-family-game-fight-r1CwyHRfGSqgaVWAba](https://giphy.com/gifs/nbc-family-game-fight-r1CwyHRfGSqgaVWAba "https://giphy.com/gifs/nbc-family-game-fight-r1CwyHRfGSqgaVWAba")">via GIPHY</a></p>
-
-    <iframe src="https://giphy.com/embed/r1CwyHRfGSqgaVWAba" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nbc-family-game-fight-r1CwyHRfGSqgaVWAba">via GIPHY</a></p>
