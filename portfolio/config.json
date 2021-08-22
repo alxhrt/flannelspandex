@@ -6,13 +6,13 @@
   "favicon": "/upload/logo.svg",
   "navigation": [
     {
-      "text": "Tracks",
+      "text": "Adventures",
       "link": "/",
       "position": "left",
       "external": false
     },
     {
-      "text": "Adventures",
+      "text": "Tracks",
       "link": "/journal/",
       "position": "left",
       "external": false
