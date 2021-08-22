@@ -25,7 +25,7 @@ asdfasdfasdf asdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdgasdfasdf asfd
 
 > asdfasdf asfd asdf asdfasdf adgsasd afsdasdg asdg asdg
 
-![](/upload/2021-08-15-image_f-s.jpeg)
+![](/upload/f-s-naafbachtal.jpeg)
 
 **Link:** [https://www.komoot.de/tour/300033329](https://www.komoot.de/tour/300033329 "https://www.komoot.de/tour/300033329")  
 **GPX:** [Yippie yeah](https://www.komoot.de/tour/300033329 "https://www.komoot.de/tour/300033329")
